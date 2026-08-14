@@ -21,6 +21,8 @@ As part of the group project, I was responsible for the **SAS-based data analysi
 
 ## Project Posters
 
-The project findings were presented through a series of academic posters, which are available in the `posters/` folder.
+The project findings were presented through a series of academic posters.
+
+**[View the posters](Census_Income.pdf)**
 
 
